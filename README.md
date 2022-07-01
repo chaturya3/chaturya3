@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaturya3
 - 👀 I’m interested in latest tech programming.
-- 🌱 I’m currently learning full stack development using mern stack.
+- 🌱 I’m currently experienced in .net core api development & learning angular.
 -
 
 <!---
